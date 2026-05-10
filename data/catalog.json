@@ -1,0 +1,732 @@
+{
+  "source": "https://www.shl.com/products/product-catalog/",
+  "retrieved_at": "2026-05-09T11:23:13.359007+00:00",
+  "items": [
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "name": ".NET Framework 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "test_type": "K",
+      "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.",
+      "duration_minutes": 30,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Professional Individual Contributor",
+        "Mid-Professional"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "name": ".NET MVC (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+      "duration_minutes": 17,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "name": ".NET MVVM (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+      "duration_minutes": 5,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "name": ".NET WCF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+      "duration_minutes": 11,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "name": ".NET WPF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF applications.",
+      "duration_minutes": 9,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "name": ".NET XAML (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+      "duration_minutes": 5,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "name": "Accounts Payable (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "test_type": "K",
+      "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+      "duration_minutes": 9,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "name": "Accounts Payable Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "test_type": "S",
+      "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+      "duration_minutes": 8,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "name": "Accounts Receivable (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "test_type": "K",
+      "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+      "duration_minutes": 13,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "name": "Accounts Receivable Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "test_type": "S",
+      "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+      "duration_minutes": 8,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/ado-net-new/",
+      "name": "ADO.NET (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+      "duration_minutes": 10,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+      "name": "Adobe Experience Manager (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of AEM components, templates, workflows, AEM collections, OSGi services and troubleshooting of AEM projects.",
+      "duration_minutes": 17,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+      "name": "Adobe Photoshop CC",
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+      "test_type": "K",
+      "description": "The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed for experienced users, this test covers the following topics: 3D, Color, File Management, Interface, Layers, Painting and Drawing, Retouch and Enhancements, Selection, Text, and Web.",
+      "duration_minutes": 20,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+      "name": "Aeronautical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion.",
+      "duration_minutes": 10,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "name": "Aerospace Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
+      "duration_minutes": 10,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Graduate",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/agile-software-development/",
+      "name": "Agile Software Development",
+      "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and processes involved in agile software development.",
+      "duration_minutes": 7,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Graduate"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/agile-testing-new/",
+      "name": "Agile Testing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of tools, techniques and processes involved in the Agile testing methodology.",
+      "duration_minutes": 13,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/ai-skills/",
+      "name": "AI Skills",
+      "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+      "test_type": "P",
+      "description": "The AI Skills assessment measures the skills that help candidates successfully leverage AI in their work.",
+      "duration_minutes": 16,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "General Population"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "name": "Amazon Web Services (AWS) Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+      "duration_minutes": 6,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/android-development-new/",
+      "name": "Android Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components, security and testing.",
+      "duration_minutes": 7,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/angular-6-new/",
+      "name": "Angular 6 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of the basic components and modules of Angular 6 and concepts like data binding, dependency injection, CRUD with HTTP, typescript, routing and navigation.",
+      "duration_minutes": 11,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/angularjs-new/",
+      "name": "AngularJS (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
+      "duration_minutes": 9,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+      "name": "Apache Hadoop (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
+      "duration_minutes": 7,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+      "name": "Apache Hadoop Extensions (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
+      "duration_minutes": 9,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-hbase-new/",
+      "name": "Apache HBase (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.",
+      "duration_minutes": 5,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-hive-new/",
+      "name": "Apache Hive (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.",
+      "duration_minutes": 5,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "name": "Apache Kafka (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
+      "duration_minutes": 6,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-pig-new/",
+      "name": "Apache Pig (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Pig architecture, built-in operators, built-in functions and commands in PigLatin.",
+      "duration_minutes": 6,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/apache-spark-new/",
+      "name": "Apache Spark (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
+      "duration_minutes": 8,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+      "name": "ASP .NET with C# (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access components, state management and security services.",
+      "duration_minutes": 13,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "name": "ASP.NET 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "test_type": "K",
+      "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
+      "duration_minutes": 30,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+      "name": "Assessment and Development Center Exercises",
+      "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+      "test_type": "E",
+      "description": "SHL offers a comprehensive range of Assessment and Development Centre exercise in digital format, for remote assessment through our Virtual Assessment and Development Centre platform. We offer a wide range of exercise types including group exercise, role plays, analysis presentations and written exercises. Exercises are available across a wide range of job levels and industry contexts. Contact SHL to find out more.",
+      "duration_minutes": null,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English International",
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Director",
+        "Entry-Level",
+        "Executive",
+        "Front Line Manager",
+        "General Population",
+        "Graduate",
+        "Manager",
+        "Mid-Professional",
+        "Professional Individual Contributor",
+        "Supervisor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/automata-fix-new/",
+      "name": "Automata - Fix (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+      "test_type": "S",
+      "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility. Read more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+      "duration_minutes": 20,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "name": "Automata - SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "test_type": "S",
+      "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+      "duration_minutes": 30,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/automata-new/",
+      "name": "Automata (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+      "test_type": "S",
+      "description": "An AI-powered coding simulation assessment that evaluates candidate\u2019s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility. Read more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+      "duration_minutes": 45,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/written-english-v1/",
+      "name": "Written English v1",
+      "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+      "test_type": "K",
+      "description": "The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language and covers the following topics: Articles, Comparisons, Conjunctions, General Questions, Misused Words, Nouns, Parallel Structure, Prepositions, Pronouns, Specific Questions, and Verbs.",
+      "duration_minutes": 30,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)",
+        "English International"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Front Line Manager",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/written-spanish/",
+      "name": "Written Spanish",
+      "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+      "test_type": "K",
+      "description": "This test measures knowledge of Spanish grammar and Spanish reading comprehension skills. Designed primarily for individuals where Spanish is their second language, this test covers the following topics: Adjectives, Adverbs, Conjunctions, Nouns, Prepositions, Pronouns, Verbs, and Reading Comprehension.",
+      "duration_minutes": 22,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "Latin American Spanish"
+      ],
+      "job_levels": [
+        "Entry-Level",
+        "Front Line Manager",
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/zabbix-new/",
+      "name": "Zabbix (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+      "test_type": "K",
+      "description": "Multi-choice test that measures the knowledge of Zabbix architecture, data handling, monitoring and administration.",
+      "duration_minutes": 9,
+      "job_family": [],
+      "skills": [],
+      "languages": [
+        "English (USA)"
+      ],
+      "job_levels": [
+        "Mid-Professional",
+        "Professional Individual Contributor"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    },
+    {
+      "id": "www.shl.com/products/product-catalog/view/360-digital-report/",
+      "name": "360 Digital Report",
+      "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+      "test_type": "D",
+      "description": "Introducing the new 360 Digital Report from SHL! Our latest offering revolutionizes the reporting experience for our 360 products, catering to the modern user's needs for enhanced usability and actionable insights. With a sleek, interactive interface, this report provides a exploration of feedback data, focusing on user development and comprehensive evaluation. Users can now enjoy a visually engaging experience, with the capability to download the report in PDF format for offline access. Upgrade your reporting experience today with SHL's innovative 360 Digital Report!",
+      "duration_minutes": null,
+      "job_family": [],
+      "skills": [],
+      "languages": [],
+      "job_levels": [
+        "Director",
+        "Manager",
+        "Entry-Level",
+        "Executive",
+        "Front Line Manager",
+        "General Population",
+        "Graduate"
+      ],
+      "source": "https://www.shl.com/products/product-catalog/"
+    }
+  ]
+}
