@@ -26,7 +26,7 @@ export default function useChat() {
     setIsLoading(true);
     setError("");
     try {
-      const data = await postChat(payload);
+      const data = await postChat(payload, { timeoutMs: 25000 });
       if (data.reply?.trim()) {
         setMessages((prev) => [...prev, buildMessage("assistant", data.reply)]);
       }
