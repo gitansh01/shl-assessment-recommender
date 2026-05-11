@@ -20,6 +20,8 @@ class Settings(BaseSettings):
         "http://127.0.0.1:5173",
         "http://127.0.0.1:5174",
         "http://127.0.0.1:5175",
+        "https://shl-assessment-recommender-git-main-gitansh01s-projects.vercel.app",
+        "https://shl-assessment-recommender-5joh.onrender.com",
     ]
     model_config = SettingsConfigDict(
         env_file=str(BASE_DIR / ".env"),
