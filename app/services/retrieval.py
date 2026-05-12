@@ -16,12 +16,20 @@ class EmbeddingIndex:
     model_name: str
     model: SentenceTransformer | None = field(default=None, repr=False)
 
+    def ensure_model(self) -> SentenceTransformer:
+        if self.model is None:
+            self.model = SentenceTransformer(self.model_name)
+        return self.model
+
+    def warmup(self) -> None:
+        model = self.ensure_model()
+        model.encode(["warmup"], normalize_embeddings=True)
+
     def search(self, query: str, k: int) -> List[Tuple[str, float]]:
         if not query.strip():
             return []
-        if self.model is None:
-            self.model = SentenceTransformer(self.model_name)
-        query_vec = self.model.encode([query], normalize_embeddings=True)
+        model = self.ensure_model()
+        query_vec = model.encode([query], normalize_embeddings=True)
         scores = np.dot(self.embeddings, query_vec[0])
         if scores.size == 0:
             return []

@@ -22,6 +22,8 @@ def create_app() -> FastAPI:
     async def startup() -> None:
         catalog = load_catalog(settings.CATALOG_PATH)
         vector_index = load_vector_index(settings.INDEX_PATH)
+        if settings.USE_EMBEDDINGS and settings.WARMUP_EMBEDDINGS and vector_index:
+            vector_index.warmup()
         app.state.recommender = ChatRecommender(catalog, vector_index)
 
     @app.get("/health", response_model=HealthResponse)

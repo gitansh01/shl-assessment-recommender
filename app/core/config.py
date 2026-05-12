@@ -9,6 +9,7 @@ class Settings(BaseSettings):
     INDEX_PATH: str = str(BASE_DIR / "data" / "index.pkl")
     EMBEDDING_MODEL_NAME: str = "sentence-transformers/all-MiniLM-L6-v2"
     USE_EMBEDDINGS: bool = True
+    WARMUP_EMBEDDINGS: bool = True
     MAX_TURNS: int = 8
     MAX_RECOMMENDATIONS: int = 10
     DEFAULT_RECOMMENDATION_COUNT: int = 5
