@@ -267,7 +267,7 @@ class ChatRecommender:
         )
 
     def _rank_candidates(self, query_text: str) -> List[Assessment]:
-        if self.vector_index:
+        if settings.USE_EMBEDDINGS and self.vector_index:
             results = self.vector_index.search(query_text, settings.TOP_K)
             ranked = []
             for item_id, _score in results:
